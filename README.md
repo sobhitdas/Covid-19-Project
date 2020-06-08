@@ -1,2 +1,2 @@
-# Covid-19-Project
-This is a COVID-19 tracker app.Build using Javascript and hosted on the aws ec2 instance
+# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+COVID-19 with HTML5, CSS3 and JavaScript
